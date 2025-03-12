@@ -1,4 +1,4 @@
-# Hi there, I'm Vangarikarthik! 👋
+# Hi there, I'm Vangari Karthik! 👋
 
 Welcome to my GitHub profile! I'm a B.Tech Computer Science student passionate about Software Development, Cloud Computing, and DevOps. I love exploring the entire Software Development Life Cycle (SDLC)—from coding and testing to deployment and automation.
 
