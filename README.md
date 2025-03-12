@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a B.Tech Computer Science student passionate about Software Development, Cloud Computing, and DevOps. I love exploring the entire Software Development Life Cycle (SDLC)—from coding and testing to deployment and automation.
 
 ## 📫 How to Reach Me
-- GitHub: [Vangarikarthik](https://github.com/Vangarikarthik)
 - LinkedIn: [Karthik V](https://www.linkedin.com/in/karthikv666)
 - Email: [vangarinani@gmail.com](mailto:vangarinani@gmail.com)
 
