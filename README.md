@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science student passionate a
 ## 📫 How to Reach Me
 - LinkedIn: [Karthik V](https://www.linkedin.com/in/karthikv666)
 - Email: [vangarinani@gmail.com](mailto:vangarinani@gmail.com)
+- leetcode: [KarthikVangari](https://leetcode.com/u/karthikv666/)
 - Resume: [Karthik V resume](https://drive.google.com/file/d/1LLZ9w7jzn9SLwuhQCrZYpvdOPxOB6LXk/view?usp=sharing)
 
 ## 🔭 What I'm Working On
@@ -28,8 +29,6 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science student passionate a
 - Reliance Foundation Scholar
 - 3rd Prize Winner in a 24-hour Hackathon (Stratum)
 
-## ⚡ Fun Fact
-I enjoy reading tech articles, following new innovations, and playing video games 🎮
 
 Feel free to explore my repositories and reach out if you have any questions or ideas to collaborate on!
 
