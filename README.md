@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a B.Tech Computer Science student passionate a
 - LinkedIn: [Karthik V](https://www.linkedin.com/in/karthikv666)
 - Email: [vangarinani@gmail.com](mailto:vangarinani@gmail.com)
 - leetcode: [KarthikVangari](https://leetcode.com/u/karthikv666/)
-- Resume: [Karthik V resume](https://drive.google.com/file/d/1LLZ9w7jzn9SLwuhQCrZYpvdOPxOB6LXk/view?usp=sharing)
+- Resume: [Karthik V resume]([https://drive.google.com/file/d/1LLZ9w7jzn9SLwuhQCrZYpvdOPxOB6LXk/view?usp=sharing](https://drive.google.com/file/d/1YubgwwDbjx2sGUUqAXWFNbaA6YQWCQW2/view?usp=sharing))
 
 ## 🔭 What I'm Working On
 - CI/CD Pipelines for automated deployment using Jenkins, Docker, and Kubernetes
